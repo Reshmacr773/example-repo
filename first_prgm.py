@@ -1,2 +1,2 @@
 print("Hello world")
-print("Your have selected program language is Python")
+print("Your have selected program language is Python.")
